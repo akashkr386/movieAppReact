@@ -10,7 +10,6 @@ function Trailer() {
   const category = pathname.includes("movie") ? "movie" : "tv";
   const ytvideo = useSelector((state) => state[category].info.videos);
   const navigate = useNavigate();
-  console.log(ytvideo);
 
   return (
     <div className="bg-[rgba(0,0,0,.8)] z-[100] top-0 left-0 absolute w-screen h-screen flex items-center justify-center">
