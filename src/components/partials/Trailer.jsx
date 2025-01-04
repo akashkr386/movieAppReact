@@ -2,7 +2,6 @@ import React from "react";
 import ReactPlayer from "react-player";
 import { useSelector } from "react-redux";
 import { Link, useNavigate, useLocation } from "react-router-dom";
-import Loading from "../loading";
 import NotFound from "../NotFound";
 
 function Trailer() {

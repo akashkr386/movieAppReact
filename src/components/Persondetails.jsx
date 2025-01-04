@@ -8,7 +8,7 @@ import {
   useParams,
 } from "react-router-dom";
 import { asyncloadperson, removeperson } from "../store/actions/personAction";
-import Loading from "./loading";
+import Loading from "./Loading";
 import HorizontalCards from "./partials/HorizontalCards";
 import no_img from "/no_img.jpg";
 import Dropdown from "../components/partials/Dropdown";
