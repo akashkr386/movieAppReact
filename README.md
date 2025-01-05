@@ -4,6 +4,9 @@ Welcome to MoviesDB, your ultimate destination for all things movies and enterta
 
 MoviesDB is a dynamic platform built with React.js, designed to give you access to the latest and greatest in the film industry. By integrating data from a powerful API, we bring you real-time information about your favorite movies, trending videos, and top actors. From blockbuster hits to hidden gems, our database is constantly updated to ensure you're always in the loop.
 
+## Take Review Of Project
+https://movie-app-react-qb66.vercel.app/
+
 ## Features
 1. Real-Time Movie Data: Get information on trending movies, the latest releases, top-rated films, and hidden gems.\
 2. Movie Search: Search for movies by genre, rating, release year, or keyword.\
